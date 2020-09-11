@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MultiplayerGame", "MultiplayerGame\MultiplayerGame.pyproj", "{20327789-9BB7-4C34-910D-032C3FDFA4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20327789-9BB7-4C34-910D-032C3FDFA4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20327789-9BB7-4C34-910D-032C3FDFA4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE4A1BD2-E970-4AD0-8F77-FD9661EE9C86}
+	EndGlobalSection
+EndGlobal
